@@ -6,6 +6,8 @@ exit when we reach our desired destination/reach our input parameter.
 another process can be parallel processing where the file is divided into chuncks and it would be loaded into the memory into chunks which makes it highle efficient
 but it is hard to implement.
 
+Reason to Implement: I implemented the final solution because of its easy nature to understand and because of its easy implementation.
+
 Steps to Run:
 Load the log file in text/log format in the root directory
 Since I have used pycharm in my case, I wrote the code in the script file in the src folder and ran the file in the terminal.
